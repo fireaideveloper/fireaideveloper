@@ -293,8 +293,8 @@ Learning
 
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=fireaideveloper&style=for-the-badge&color=8B3FA8&label=VISITORS&abbreviated=true"
-    alt="Profile visitors"
+    src="https://vbr.nathanchung.dev/badge?page_id=fireaideveloper.fireaideveloper&color=8B3FA8&lcolor=141321&style=for-the-badge&text=VISITORS"
+    alt="Visitors"
   />
 </div>
 
