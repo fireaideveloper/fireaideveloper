@@ -7,6 +7,16 @@
   Moscow · RTU MIREA
 </p>
 
+---
+
+
+<h3 align="center">ML / AI Areas</h3>
+
+<p align="center">
+Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · OCR · LLM · RAG · Semantic Search · Time Series · MLOps
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -34,6 +44,7 @@
 
 ---
 
+
 <h3 align="center">Projects & Achievements</h3>
 
 | Year | Project / Challenge | Area & Role | What I Did | Result | Stack |
@@ -45,6 +56,21 @@
 | 2026 | 📈 **X5 Growth Gradient — Round 2** | Data Science · Data Scientist | Improved and refined the first-round forecasting solution | **Top 23 / 300** | Python, CatBoost, Time Series |
 | 2026 | ⚙️ **MTS True Tech Hack** | ML · ML Engineer | Added 12 Lua validation rules, RAM constraints, metrics and contributed to C4 architecture | **Finalist / Top 15**, F1 **0.68 → 0.84**, manual review **−40%** | Python, ML metrics, C4 |
 | 2025 | 🏆 **IV International Essay Contest** | English · Solo Participant | Wrote an English essay on social media: unifying space vs digital addiction | **1st Degree Diploma** | English |
+
+---
+
+<h3 align="center">GitHub Activity</h3>
+
+
+<p align="center">
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=fireaideveloper&theme=radical&hide_border=true"
+       alt="GitHub Stats" />
+  <img height="170"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=fireaideveloper&layout=compact&theme=radical&hide_border=true&langs_count=8"
+       alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -252,15 +278,9 @@ Learning
 
 </table>
 
----
-
-<h3 align="center">ML / AI Areas</h3>
-
-<p align="center">
-Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · OCR · LLM · RAG · Semantic Search · Time Series · MLOps
-</p>
 
 ---
+
 
 <h3 align="center">Languages</h3>
 
@@ -271,7 +291,8 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
 </p>
 
 
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=006400&label=VISITORS&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=8B3FA8&label=VISITORS&abbreviated=true" />
 </div>
+
+
