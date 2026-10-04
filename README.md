@@ -292,7 +292,10 @@ Learning
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kirill-code-ai&style=for-the-badge&color=8B3FA8&label=VISITORS&abbreviated=true" />
+  <img
+    src="https://komarev.com/ghpvc/?username=fireaideveloper&style=for-the-badge&color=8B3FA8&label=VISITORS&abbreviated=true"
+    alt="Profile visitors"
+  />
 </div>
 
 
