@@ -46,7 +46,6 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
 
 <h3 align="center">Projects & Achievements</h3>
 
-### Projects & Achievements
 
 | Year | Project | Highlights & Results | Stack |
 |---|---|---|---|
