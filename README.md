@@ -1,22 +1,14 @@
-
-<h2 align="center">Kirill Ivanov</h2>
-
-<h3 align="center">ML Engineer · Computer Vision · Data Science · NLP · LLM Systems</h3>
+<h3 align="center">Kirill Ivanov</h3>
 
 <p align="center">
   Moscow · RTU MIREA
 </p>
 
-
-
----
-
 <h3 align="center">ML / AI Areas</h3>
 
 <p align="center">
-Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · OCR · LLM · RAG · Semantic Search · Time Series · MLOps
+  Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · OCR · LLM · RAG · Semantic Search · Time Series · MLOps
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -45,9 +37,7 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
 
 ---
 
-
 <h3 align="center">Projects & Achievements</h3>
-
 
 | Year | Project | Highlights & Results | Stack |
 |---|---|---|---|
@@ -55,14 +45,14 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
 | 2026–Present | 🔎 **SherlockPC** | Local AI assistant for system monitoring, behavioral analysis and diagnostics. **Active development** | Python, psutil, SQLite, OpenCV, OCR |
 | 2026 | 👁 **Find Yourself in Big Data** | Video OCR pipeline and parallel processing. **Recall 67% → 89%**, runtime **15 → 6 min** | Python, Tesseract, ETL |
 | 2026 | 🧠 **ArenaData** | Hybrid NER pipeline, validation and optimization. **Top 6**, Precision **0.94**, Recall **0.91**, **4.3× faster** | Python, spaCy, NER, regex |
-| 2026 | 📈 **X5 Growth Gradient R1** | Turnover forecasting, feature engineering and CatBoost. **Top 13/350**, RMSE **0.093** | Python, CatBoost, pandas |
 | 2026 | 📈 **X5 Growth Gradient R2** | Improved time-series forecasting solution. **Top 23/300** | Python, CatBoost |
+| 2026 | 📈 **X5 Growth Gradient R1** | Turnover forecasting, feature engineering and CatBoost. **Top 13/350**, RMSE **0.093** | Python, CatBoost, pandas |
 | 2026 | ⚙️ **MTS True Tech Hack** | ML validation, optimization and architecture. **Finalist / Top 15**, F1 **0.68 → 0.84**, manual review **−40%** | Python, ML, Lua, C4 |
 | 2025 | 🏆 **IV International Essay Contest** | English essay on social media and digital addiction. **1st Degree Diploma** | English |
+
 ---
 
 <h3 align="center">GitHub Activity</h3>
-
 
 <p align="center">
   <img height="170"
@@ -73,13 +63,9 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
        alt="Top Languages" />
 </p>
 
-
 ---
 
 <h3 align="center">Tech Stack</h3>
-
-<table align="center" width="100%">
-
 
 | Area | Technologies & Skills | Level |
 |---|---|---|
@@ -95,10 +81,7 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
 | **Backend & Tools** | FastAPI, REST APIs, Docker, Docker Compose, Git, GitHub, CI/CD, multiprocessing, Matplotlib, Seaborn | Hands-on |
 | **Math & Research** | Linear Algebra, Calculus, Probability, Statistics, Optuna, multimodal AI, agentic systems, advanced RAG | Fundamentals / Learning |
 
-
-
 ---
-
 
 <h3 align="center">Languages</h3>
 
@@ -108,12 +91,9 @@ Computer Vision · Deep Learning · Machine Learning · Data Science · NLP · O
   <b>English</b> — C2 / Proficiency
 </p>
 
-
 <div align="center">
   <img
     src="https://vbr.nathanchung.dev/badge?page_id=fireaideveloper.fireaideveloper&color=8B3FA8&lcolor=141321&style=for-the-badge&text=VISITORS"
     alt="Visitors"
   />
 </div>
-
-
