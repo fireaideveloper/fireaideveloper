@@ -22,18 +22,23 @@
 
 ---
 
-<h3 align="center">GitHub Activity</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=fireaideveloper&theme=radical&hide_border=true"
-       alt="GitHub Stats" />
-  <img height="170"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=fireaideveloper&layout=compact&theme=radical&hide_border=true&langs_count=8"
-       alt="Top Languages" />
+  <b>Russian</b> — Native
+  &nbsp;|&nbsp;
+  <b>English</b> — C2 / Proficiency
 </p>
 
+<div align="center">
+  <img
+    src="https://vbr.nathanchung.dev/badge?page_id=fireaideveloper.fireaideveloper&color=8B3FA8&lcolor=141321&style=for-the-badge&text=VISITORS"
+    alt="Visitors"
+  />
+</div>
+
 ---
+
 
 <h3 align="center">Tech Stack</h3>
 
@@ -51,19 +56,4 @@
 | **Backend & Tools** | FastAPI, REST APIs, Docker, Docker Compose, Git, GitHub, CI/CD, multiprocessing, Matplotlib, Seaborn | Hands-on |
 | **Math & Research** | Linear Algebra, Calculus, Probability, Statistics, Optuna, multimodal AI, agentic systems, advanced RAG | Fundamentals / Learning |
 
----
 
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <b>Russian</b> — Native
-  &nbsp;|&nbsp;
-  <b>English</b> — C2 / Proficiency
-</p>
-
-<div align="center">
-  <img
-    src="https://vbr.nathanchung.dev/badge?page_id=fireaideveloper.fireaideveloper&color=8B3FA8&lcolor=141321&style=for-the-badge&text=VISITORS"
-    alt="Visitors"
-  />
-</div>
