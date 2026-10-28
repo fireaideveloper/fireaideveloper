@@ -4,6 +4,10 @@
   Moscow · RTU MIREA
 </p>
 
+<p align="center">
+  Russian(Native) · English(C2/Proficiency)
+</p>
+
 <div align="center">
   <img
     src="https://vbr.nathanchung.dev/badge?page_id=fireaideveloper.fireaideveloper&color=8B3FA8&lcolor=141321&style=for-the-badge&text=VISITORS"
@@ -33,7 +37,7 @@
 
 | Area | Technologies & Skills | Level |
 |---|---|---|
-| **Languages** | Python, C++, JavaScript, SQL, Bash, Linux, Russian(Native), English(C2/Proficiency) | Python: Advanced · C++/JS: Basic · SQL: Intermediate |
+| **Languages** | Python, C++, JavaScript, SQL, Bash, Linux | Python: Advanced · C++/JS: Basic · SQL: Intermediate |
 | **Machine Learning** | Scikit-learn, XGBoost, LightGBM, CatBoost, classification, regression, feature engineering, cross-validation, tuning | Experienced |
 | **Data Science** | pandas, NumPy, ETL, EDA, data cleaning, time series, lag/rolling features, walk-forward validation | Hands-on |
 | **Deep Learning** | PyTorch, TensorFlow, Keras, torchvision, transfer learning, fine-tuning, optimizers, regularization | PyTorch: Experienced · TF: Intermediate |
