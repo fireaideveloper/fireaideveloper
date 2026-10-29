@@ -89,9 +89,9 @@ A selection of competition results, engineering outcomes, and their **original s
 <table>
   <tr>
     <td valign="top" width="70%">
-      <h3>📦 Dataset published for the ML community</h3>
-      <p>My dataset has reached <b>1000+ combined downloads</b> across <b>Kaggle</b> and <b>Hugging Face</b>. Explore the published data and other public resources on my profiles.</p>
-      <p><a href="https://www.kaggle.com/fireaideveloper">Kaggle ↗</a> &nbsp;·&nbsp; <a href="https://huggingface.co/fireaideveloper">Hugging Face ↗</a></p>
+      <h3>📦 <a>SherlockBench — Windows Workload Telemetry</a></h3>
+      <p>My dataset has reached <b>1000+ combined downloads</b> across <b>Kaggle</b> and <b>Hugging Face</b>. Explore the dataset directly on either platform.</p>
+      <p><a href="https://www.kaggle.com/datasets/fireaideveloper/sherlockbench-windows-workload-telemetry">View on Kaggle ↗</a> &nbsp;·&nbsp; <a href="https://huggingface.co/datasets/fireaideveloper/SherlockBench">View on Hugging Face ↗</a></p>
     </td>
     <td align="center" valign="middle" width="30%">
       <strong>1000+<br/>DOWNLOADS</strong><br/>
@@ -100,41 +100,12 @@ A selection of competition results, engineering outcomes, and their **original s
   </tr>
 </table>
 
-## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,github,linux,bash,cpp,js,sqlite,regex,githubactions&amp;theme=dark&amp;perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Docker, Git, GitHub, Linux, Bash, C++, JavaScript, SQLite, regex, GitHub Actions" />
+  <a href="./assets/tech-stack.svg" title="View tech stack in full size">
+    <img src="./assets/tech-stack.svg" alt="Tech stack overview: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Docker, Git, GitHub, Linux, C++, JavaScript, SQLite, and AI engineering tools across machine learning, computer vision, NLP, data, backend, and MLOps." width="100%" />
+  </a>
 </div>
-
-<br />
-
-| Direction | Technologies and skills |
-| :--- | :--- |
-| **ML & tabular data** | Scikit-learn · CatBoost · XGBoost · LightGBM · Feature engineering · Cross-validation · Optuna |
-| **Deep learning & vision** | PyTorch · TensorFlow · Keras · OpenCV · CNNs · YOLO · ResNet · U-Net · ViT · CLIP |
-| **NLP & GenAI** | spaCy · NER · Transformers · Hugging Face · Embeddings · RAG · FAISS · Chroma · LangChain · Ollama |
-| **Data & experimentation** | pandas · NumPy · ETL · EDA · Time series · Evaluation metrics · MLflow · W&amp;B · DVC |
-| **Engineering** | Python · SQL · FastAPI · REST · Docker · Git · GitHub · CI/CD · Multiprocessing · Linux |
-
-<details>
-  <summary><b>🔬 Full skills matrix · proficiency and additional tooling</b></summary>
-  <br />
-
-  | Area | Technologies and skills | Experience |
-  | :--- | :--- | :--- |
-  | **Languages** | Python, C++, JavaScript, SQL, Bash, Linux | Python: Advanced · C++/JS: Basic · SQL: Intermediate |
-  | **Machine Learning** | Scikit-learn, XGBoost, LightGBM, CatBoost, classification, regression, feature engineering, cross-validation, tuning | Experienced |
-  | **Data Science** | pandas, NumPy, ETL, EDA, data cleaning, time series, lag/rolling features, walk-forward validation | Hands-on |
-  | **Deep Learning** | PyTorch, TensorFlow, Keras, torchvision, transfer learning, fine-tuning, optimizers, regularization | PyTorch: Experienced · TF: Intermediate |
-  | **Computer Vision** | OpenCV, Pillow, scikit-image, CNN, ResNet, EfficientNet, YOLO, Faster R-CNN, U-Net, Mask R-CNN, ViT, CLIP | Hands-on |
-  | **Vision & OCR** | Classification, detection, segmentation, video analytics, Tesseract, preprocessing, morphology, denoising, document analysis | Hands-on |
-  | **NLP & LLM** | spaCy, NER, regex, Transformers, Hugging Face, RAG, embeddings, FAISS, Chroma, LangChain, Ollama, semantic search | Hands-on / Working knowledge |
-  | **Evaluation & labeling** | F1, Precision, Recall, IoU, mAP, Dice, CER, WER, RMSE, CVAT, Label Studio, Albumentations, augmentation, leakage prevention | Hands-on |
-  | **Optimization & MLOps** | ONNX, TensorRT, CUDA, FP16/INT8, profiling, batching, caching, MLflow, W&B, DVC, experiment tracking | Working knowledge |
-  | **Backend & tools** | FastAPI, REST APIs, Docker, Docker Compose, Git, GitHub, CI/CD, multiprocessing, Matplotlib, Seaborn | Hands-on |
-  | **Math & research** | Linear algebra, calculus, probability, statistics, Optuna, multimodal AI, agentic systems, advanced RAG | Fundamentals / Learning |
-
-</details>
 
 ## Currently exploring
 
