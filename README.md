@@ -73,6 +73,7 @@ A selection of competition results, engineering outcomes, and their **original s
 
 | Competition / Project | Highlights | Evidence |
 | :--- | :--- | :--- |
+| 🎓 **Stepik — Neural Networks and Computer Vision** <br/><sub>Course certificate · Russian and English editions</sub> | **Course completion** · Neural networks and computer vision | [📄 Russian certificate](./achievements/stepik-certificate-50352-027e10e.pdf) · [📄 English certificate](./achievements/stepik-certificate-50352-027e10e_en.pdf) |
 | 🏆 **IV International English Essay Contest** <br/><sub>2025 · English-language essay on social media and digital addiction</sub> | **1st place · 1st Degree Diploma** | [📄 View diploma](./achievements/diploma-KGEU-1st-degree-2025.pdf) |
 | 🧠 **ArenaData** <br/><sub>2026 · Named entity recognition</sub> | **Top 6** · Precision **0.94** · Recall **0.91** · **4.3× faster** | [📄 Certificate](./achievements/ARENADATA_certificate.pdf) |
 | 📈 **X5 Growth Gradient** <br/><sub>2026 · Time-series forecasting</sub> | **Round 1: Top 13 / 350**, RMSE **0.093** <br/> **Round 2: Top 23 / 300** | [📄 R1 results](./achievements/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%201%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0%20%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%20%D1%80%D0%BE%D1%81%D1%82%D0%B0.pdf) · [📄 R2 results](./achievements/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%202%20%D1%8D%D1%82%D0%B0%D0%BF%D0%B0%20%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%D1%80%D0%BE%D1%81%D1%82%D0%B0.pdf) |
